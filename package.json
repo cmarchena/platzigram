@@ -1,0 +1,30 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "Código de Prueba Platzi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "platzi",
+    "javascript",
+    "curso-definitivo"
+  ],
+  "author": "Carlos Marchena - Platzi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "materialize-css": "^0.97.6",
+    "page": "^1.7.1",
+    "pug": "^2.0.0-beta3"
+  },
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
